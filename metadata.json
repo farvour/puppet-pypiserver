@@ -6,7 +6,7 @@
   "description": "Allows one to set up a local Python PyPI server.",
   "types": [],
   "source": "https://github.com/farvour/puppet-pypiserver",
-  "project_page": "https://forge.puppetlabs.com/farvour/pypiserver",
+  "project_page": "https://github.com/farvour/puppet-pypiserver",
   "license": "MIT",
   "operatingsystem_support": [
     {
