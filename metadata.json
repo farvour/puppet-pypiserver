@@ -1,14 +1,13 @@
 {
   "name": "farvour-pypiserver",
   "version": "0.0.1",
-  "summary": "",
-  "author": "",
-  "description": "",
+  "summary": "Allows one to set up a local Python PyPI server.",
+  "author": "Thomas Farvour <tom@farvour.com>",
+  "description": "Allows one to set up a local Python PyPI server.",
   "types": [],
-  "checksums": {},
   "source": "",
   "project_page": "",
-  "license": "",
+  "license": "MIT",
   "operatingsystem_support": [
     {
       "operatingsystem": "Ubuntu",
