@@ -1,0 +1,26 @@
+{
+  "name": "farvour-pypiserver",
+  "version": "0.0.1",
+  "summary": "",
+  "author": "",
+  "description": "",
+  "types": [],
+  "checksums": {},
+  "source": "",
+  "project_page": "",
+  "license": "",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "stankevich/python",
+      "version_requirement": ">= 1.8.3"
+    }
+  ]
+}
