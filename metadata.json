@@ -5,8 +5,8 @@
   "author": "Thomas Farvour <tom@farvour.com>",
   "description": "Allows one to set up a local Python PyPI server.",
   "types": [],
-  "source": "",
-  "project_page": "",
+  "source": "https://github.com/farvour/puppet-pypiserver",
+  "project_page": "https://forge.puppetlabs.com/farvour/pypiserver",
   "license": "MIT",
   "operatingsystem_support": [
     {
