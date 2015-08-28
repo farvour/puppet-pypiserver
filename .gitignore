@@ -1,2 +1,5 @@
 # Ignore IDE project files.
 .idea/
+
+# Ignore Puppet module build package dirs.
+pkg/
